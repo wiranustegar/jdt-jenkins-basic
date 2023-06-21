@@ -6,5 +6,7 @@ public class Coba {
         System.out.println("coba update");
 
         System.out.println("coba update di pipeline");
+
+        System.out.println("Test lagi");
     }
 }
