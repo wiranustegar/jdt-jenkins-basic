@@ -8,5 +8,7 @@ public class Coba {
         System.out.println("coba update di pipeline");
 
         System.out.println("Test lagi");
+
+        System.out.println("test trigger");
     }
 }
